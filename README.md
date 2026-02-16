@@ -1,4 +1,9 @@
 # Face_Affect
+#Group 4
+- Patrick Fitzsimmons
+- Hang Yu
+- Bruno Sotelo
+-  Kartik Mukkavilli
 
 ## Problem Statement
 
